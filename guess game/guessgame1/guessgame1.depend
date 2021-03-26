@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1595403537 source:c:\users\nares\onedrive\documents\clang\guess game\guessgame1\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+

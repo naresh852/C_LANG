@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597319222 source:c:\users\nares\onedrive\documents\clang\notunderstood\smallbigtriangles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

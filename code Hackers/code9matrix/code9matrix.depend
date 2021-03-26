@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595666502 source:c:\users\nares\onedrive\documents\clang\code hackers\code9matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

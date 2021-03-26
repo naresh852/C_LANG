@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596277506 source:c:\users\nares\onedrive\documents\clang\code hackers\print pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+

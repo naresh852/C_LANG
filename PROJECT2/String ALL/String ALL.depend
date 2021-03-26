@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594195232 source:c:\users\nares\onedrive\documents\clang\project2\string all\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

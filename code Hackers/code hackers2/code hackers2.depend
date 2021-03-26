@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1594281253 source:c:\users\nares\onedrive\documents\clang\project2\code hackers2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1594281797 source:c:\users\nares\onedrive\documents\clang\code hackers\code hackers2\main.c
+	<stdio.h>
+	<stdlib.h>
+

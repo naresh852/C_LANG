@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595661379 source:c:\users\nares\onedrive\documents\clang\code hackers\code8verybigsum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

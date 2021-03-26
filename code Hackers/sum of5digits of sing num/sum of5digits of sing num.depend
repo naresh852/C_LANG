@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596184562 source:c:\users\nares\onedrive\documents\clang\code hackers\sum of5digits of sing num\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

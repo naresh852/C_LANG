@@ -1,0 +1,3 @@
+ ajay:donor
+ eagle :bird
+ kite:flies

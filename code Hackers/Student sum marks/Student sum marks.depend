@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596970443 source:c:\users\nares\onedrive\documents\clang\code hackers\student sum marks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

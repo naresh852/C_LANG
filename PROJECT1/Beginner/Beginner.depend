@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1593676409 source:c:\users\nares\onedrive\documents\clang\project1\beginner\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1593670920 source:c:\users\nares\onedrive\documents\clang\project1\beginner\prjt2variables.c
+	<stdio.h>
+	<stdlib.h>
+

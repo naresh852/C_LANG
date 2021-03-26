@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597232669 source:c:\users\nares\onedrive\documents\clang\notunderstood\printingtokens inc\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

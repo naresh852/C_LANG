@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596284558 source:c:\users\nares\onedrive\documents\clang\code hackers\for loop in c\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

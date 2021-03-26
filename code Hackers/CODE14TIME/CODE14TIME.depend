@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1595939152 source:c:\users\nares\onedrive\documents\clang\code hackers\code14time\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<assert.h>
+	<limits.h>
+	<stdbool.h>
+

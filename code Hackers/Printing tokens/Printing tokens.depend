@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596285440 source:c:\users\nares\onedrive\documents\clang\code hackers\printing tokens\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
